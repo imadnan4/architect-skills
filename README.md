@@ -1,5 +1,7 @@
 # Architect Skills
 
+[![skills.sh](https://skills.sh/b/imadnan4/architect-skills)](https://skills.sh/imadnan4/architect-skills)
+
 A modular, production-grade **system-design skill pack** that turns any coding agent
 (OpenCode, Claude Code, Codex, Cursor, Gemini CLI, Copilot, Windsurf, Cline) into a
 **Staff/Principal Software Architect**.

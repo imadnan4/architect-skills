@@ -42,8 +42,17 @@ Do **not** load every skill at once.
 
 ## Install into a project
 
-Copy the `skills/` directory into your repo, or add this repo as a skill source. Then tell your
-agent (root `AGENTS.md` / `CLAUDE.md` / `GEMINI.md`):
+The easiest way to use these skills is with the [skills.sh](https://www.skills.sh) CLI:
+
+```bash
+npx skills add imadnan4/architect-skills
+```
+
+This installs all 11 skills into your project (under `skills/`), where agents like OpenCode,
+Claude Code, Codex, Cursor, Gemini CLI, and Copilot can discover and load them on demand.
+
+Alternatively, copy the `skills/` directory manually into your repo, or add this repo as a skill
+source. Then tell your agent (root `AGENTS.md` / `CLAUDE.md` / `GEMINI.md`):
 
 > Before implementing or making architecture decisions, read `README.md` in the architect skill
 > pack to find the matching skill, then read that skill's `SKILL.md`.

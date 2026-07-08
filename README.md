@@ -2,6 +2,8 @@
 
 [![skills.sh](https://skills.sh/b/imadnan4/architect-skills)](https://skills.sh/imadnan4/architect-skills)
 
+![From code that works to systems that last — agents need architecture judgment](system-architecture-skill.png)
+
 A modular, production-grade **system-design skill pack** that turns any coding agent
 (OpenCode, Claude Code, Codex, Cursor, Gemini CLI, Copilot, Windsurf, Cline) into a
 **Staff/Principal Software Architect**.
@@ -58,6 +60,13 @@ source. Then tell your agent (root `AGENTS.md` / `CLAUDE.md` / `GEMINI.md`):
 
 > Before implementing or making architecture decisions, read `README.md` in the architect skill
 > pack to find the matching skill, then read that skill's `SKILL.md`.
+
+## Featured write-up
+
+Why I built this pack, how a skill actually shapes an agent's reasoning, and the trade-offs
+behind splitting it into 11 focused skills:
+
+[Your AI Agent Ships Features in Seconds. It Has Zero Architecture Judgment.](https://adnankhan-portfolio.vercel.app/4)
 
 ## Contributing / roadmap
 
